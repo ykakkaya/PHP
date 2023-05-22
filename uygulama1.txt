@@ -1,0 +1,25 @@
+        $title1 = 'PHP';
+        $description1 = 'PHP, özellikle dinamik web sayfaları oluşturmak için tasarlanmıştır ve sunucu taraflı programlama dilleri arasında en popüler olanlardan biridir.
+
+PHP, sunucu tarafında çalıştığı için, web sayfalarının oluşturulması için HTML ile birlikte kullanılır. PHP, veritabanı işlemleri, form işlemleri, kullanıcı girişi, dosya işlemleri gibi birçok farklı görevi yerine getirebilir.
+
+PHP, açık kaynak kodlu bir projedir ve ücretsiz olarak kullanılabilir. Bu nedenle, birçok web geliştiricisi PHP'yi tercih eder. Ayrıca, PHP'nin büyük bir topluluğu vardır ve bu topluluk, PHP ile ilgili sorunları çözmek ve yeni özellikler eklemek için çalışır.';
+        $salary1 = 15000;
+       
+        $title2 = 'Python';
+        $description2 = 'Python, açık kaynak kodlu bir projedir ve ücretsiz olarak kullanılabilir. Hem ticari hem de akademik amaçlar için kullanılabilir. Python, birçok farklı alanda kullanılabilir, örneğin web geliştirme, veri bilimi, yapay zeka, oyun geliştirme, yazılım testi ve daha pek çok alanda.
+
+Python, yüksek seviyeli bir dildir, bu nedenle insanların doğal diline daha yakındır ve bu nedenle öğrenmesi kolaydır. Ayrıca, Python, açık ve okunaklı bir sözdizimine sahiptir, bu nedenle kodların anlaşılması ve bakımı daha kolaydır.
+
+Python, zengin bir kütüphane ve çerçeve ekosistemine sahiptir. Bu nedenle, birçok işlemi gerçekleştirmek için hazır araçlar ve modüller bulunabilir. Bunun yanı sıra, Python, birçok platformda çalışabilir, yani Windows, macOS ve Linux gibi farklı işletim sistemleri ile uyumludur.';
+        $salary2 = 25000;
+
+        $title3 = 'Flutter';
+        $description3 = 'Flutter, Google tarafından geliştirilen açık kaynaklı bir mobil uygulama geliştirme çerçevesidir. Dart adlı bir programlama dili kullanarak iOS, Android, Windows, Mac ve Linux gibi farklı platformlarda çalışan yüksek kaliteli, modern ve hızlı mobil uygulamalar geliştirmek için kullanılır.
+
+Flutter, geliştiricilere hızlı bir geliştirme deneyimi sunar. Hızlı bir şekilde hot-reload özelliği sayesinde, uygulamanın canlı önizlemelerini anında görebilirsiniz. Flutter, görsel olarak zengin uygulamalar oluşturmak için kullanabileceğiniz widget'lar ve araçlar sunar.
+
+Flutter'ın performansı oldukça yüksektir, çünkü uygulamaların neredeyse tamamı yerel uygulamalar gibi çalışır. Ayrıca, Flutter'ın, geleneksel mobil uygulama geliştirme teknolojilerine kıyasla daha az kaynak kullanarak uygulama geliştirmeye olanak sağlayan özellikleri de vardır.
+
+Flutter, birçok büyük şirket tarafından kullanılmaktadır. Bunlardan bazıları Google, Alibaba, Philips, eBay ve daha birçok şirkettir. Flutter'ın büyük bir topluluğu da vardır, bu topluluk, Flutter geliştiricilerine destek sağlamak için birçok kaynak, araç ve yardımcı program sağlamaktadır.';
+        $salary3 = 35000;
