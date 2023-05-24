@@ -48,12 +48,13 @@ $product = array(
         "productImg" => "https://avatars.mds.yandex.net/i?id=6c7d577d6466df7995649d12df2bd071-4777526-images-thumbs&n=13",
         "productStok" => 12
     ),
-    "8" => array(
+    "9" => array(
         "productName" => "Nokia",
         "productPrice" => 5000,
         "productImg" => "https://avatars.mds.yandex.net/i?id=b13587e23308cce92021c65450d67ddab8a54d99-9106331-images-thumbs&n=13",
         "productStok" => 1
     ),
 );
+$categories = array("Cep Telefonu", "Notebook", "Beyaz Eşya", "Küçük Ev Aletleri", "Kişisel Bakım Ürünleri");
 
 
